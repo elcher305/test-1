@@ -1,11 +1,13 @@
 describe('Создание новой потребности работодателем', () => {
-    it('Должно успешно создать новую потребность', () => {
+    beforeEach(() => {
         // Логин работодателя
         cy.visit('https://dev.profteam.su/login');
-        cy.get('input[name="username"]').type('employer@example.com');
+        cy.get('input[name="username"]', { timeout: 10000 }).should('exist').type('employer@example.com');
         cy.get('input[name="password"]').type('password123');
         cy.get('button[type="submit"]').click();
+    });
 
+    it('Должно успешно создать новую потребность', () => {
         // Переход на страницу создания потребности
         cy.visit('https://dev.profteam.su/needs/create');
 

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c20bd8a8-02e6-4b39-bb8e-1c5cfe6a4356" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/applyToVacancyNegative.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/makingBadVacancy.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/applyToVacancy.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/confirmResponse.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/createVacancy.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/viewVacancies.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/workspaceInteraction.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/vacancies/workspaceStatus.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/changeWorkspaceStatus.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/confirmResponse.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/createNeed.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/respondToNeed.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/viewNeeds.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/workspaceInteraction.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/changeWorkspaceStatus.cy.js/Смена статуса рабочего пространства -- Должно успешно сменить статус -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/confirmResponse.cy.js/Подтверждение отклика работодателем -- Должно успешно подтвердить отклик -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/createNeed.cy.js/Создание новой потребности работодателем -- Должно успешно создать новую потребность -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/respondToNeed.cy.js/Отклик на потребность студентом -- Должно успешно отправить отклик -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/viewNeeds.cy.js/Просмотр страницы с потребностями -- Должно отображать список потребностей с поиском и фильтром -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/screenshots/workspaceInteraction.cy.js/Взаимодействие внутри рабочего пространства -- Должно успешно отправлять сообщение в рабочем пространстве -- before each hook (failed).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/support/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/cypress/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/cypress/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/cypress/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress-iframe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tnTb0ag2C7AXeWVa9LruyZ2xgm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/User/cupress-tests",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\cupress-tests\cypress\e2e\vacancies" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c20bd8a8-02e6-4b39-bb8e-1c5cfe6a4356" name="Changes" comment="" />
+      <created>1740986907569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740986907569</updated>
+      <workItem from="1740986908773" duration="19982000" />
+      <workItem from="1741056312122" duration="6887000" />
+      <workItem from="1741074684201" duration="4026000" />
+      <workItem from="1741079316382" duration="704000" />
+      <workItem from="1741142088962" duration="11809000" />
+      <workItem from="1741170755025" duration="828000" />
+      <workItem from="1741233458792" duration="3076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

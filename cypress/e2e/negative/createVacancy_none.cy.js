@@ -1,8 +1,8 @@
 describe('Создание вакансии', () => {
-    beforeEach(() => {
-        // Переход на страницу авторизации перед каждым тестом
+
+
         cy.visit('https://dev.profteam.su/login');
-    });
+
 
     // Функция для авторизации
     const login = (username, password) => {

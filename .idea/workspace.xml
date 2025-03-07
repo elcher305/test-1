@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20bd8a8-02e6-4b39-bb8e-1c5cfe6a4356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/applyToVacancy_none.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/confirmResponse.cy_none.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/createVacancy_none.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/viewVacancies_none.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/workspaceInteraction_none.cy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/negative/workspaceStatus_none.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/negative/makingBadVacancy.cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/negative/createVacancy_none.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/negative/createVacancy_none.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/cupress-tests",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\PhpStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/cupress-tests&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\cupress-tests\cypress\e2e\vacancies" />
@@ -82,7 +76,9 @@
       <workItem from="1741079316382" duration="704000" />
       <workItem from="1741142088962" duration="11809000" />
       <workItem from="1741170755025" duration="828000" />
-      <workItem from="1741233458792" duration="10795000" />
+      <workItem from="1741233458792" duration="11180000" />
+      <workItem from="1741287418991" duration="660000" />
+      <workItem from="1741312243131" duration="3043000" />
     </task>
     <servers />
   </component>

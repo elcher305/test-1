@@ -6,7 +6,7 @@ describe('Отклик на вакансию студентом', () => {
         //авторизация
         cy.get('input[type=text]').type('malenkoes'); // логин
         cy.get('input[type=password]').type('_Conrxyisosi06'); // пароль
-        cy.get('button[type=submit]').eq(2).click(); // тык на кнопку входа
+        cy.get('button[type=submit]').eq(2).click(); 
 
         // переход на вакансии
         cy.get(':nth-child(1) > .header__nav > [href="/vacancies"]').click();
